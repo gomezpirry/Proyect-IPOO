@@ -1,0 +1,4 @@
+
+1	computador	hp	4	1
+
+2	sony	sony	3	1
